@@ -1,6 +1,6 @@
 # grace-bot-v.0.1
 
-Grace-bot-v.0.1: Polite Hospital Assistant Chatbot
+**Grace-bot-v.0.1: Polite Hospital Assistant Chatbot**
 
 Grace-bot-v.0.1 is a friendly and helpful hospital assistant chatbot powered by GPT and fine-tuned with hospital data. This intelligent chatbot serves as a reliable resource within the hospital environment, assisting patients and visitors with the following key functionalities:
 
@@ -12,7 +12,7 @@ Appointment Management: Grace-bot-v.0.1 efficiently manages all booked appointme
 
 Responsive and Polite: Grace-bot-v.0.1 is designed to interact with users in a polite and courteous manner, ensuring a positive and reassuring experience for patients and visitors.
 
-Key Features:
+**Key Features:**
 
 - Natural Language Understanding (NLU) for effective communication.
 - Integration with hospital maps and layouts for precise wayfinding.
@@ -21,10 +21,10 @@ Key Features:
 - Error handling and informative responses.
 - Continuous improvement and user feedback integration.
 
-Usage:
+**Usage:**
 
 Grace-bot-v.0.1 is deployed to assist hospital visitors and patients in finding their way, booking appointments, and managing healthcare schedules. It can be accessed via the hospital's website or messaging platforms.
 
-Contributing:
+**Contributing:**
 
 We welcome contributions and feedback to enhance Grace-bot-v.0.1's capabilities. Feel free to open issues, propose features, or submit pull requests.
